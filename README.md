@@ -54,5 +54,6 @@ FUTURE_ML_01
 ---
 
 ## 👨‍💻 Author
-SIRIKI TAMAN
+**SIRIKI TAMAN**
+
 Machine Learning Intern – Future Interns Program
